@@ -1,0 +1,267 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-09-19T18:14:38.420Z,18.5539,-98.4952,51,7.1,mww,,23,0.988,1.14,us,us2000ar20,2017-10-11T10:11:50.204Z,"0km NE of Ayutla, Mexico",earthquake,6.6,1.8,0.048,41,reviewed,us,us
+2017-09-08T04:49:20.000Z,15.0356,-93.9067,56.67,8.1,mww,,22,0.939,1.15,us,us2000ahv0,2017-10-11T07:52:21.109Z,"100km SSW of Tres Picos, Mexico",earthquake,5.7,1.8,0.068,21,reviewed,us,us
+2017-07-17T23:34:13.740Z,54.4434,168.857,10,7.7,mww,,13,3.564,0.68,us,us20009x42,2017-10-11T01:03:51.040Z,"202km ESE of Nikol'skoye, Russia",earthquake,7,1.8,0.036,73,reviewed,us,us
+2017-01-22T04:30:22.960Z,-6.2464,155.1718,135,7.9,mww,,9,3.625,1.22,us,us10007uph,2017-04-19T18:30:54.040Z,"35km WNW of Panguna, Papua New Guinea",earthquake,7.3,1.8,0.042,54,reviewed,us,us
+2017-01-10T06:13:48.140Z,4.4782,122.6171,627.17,7.3,mww,,18,3.813,1.05,us,us10007s9c,2017-05-07T17:42:08.352Z,"189km SSE of Tabiauan, Philippines",earthquake,8.5,3,,,reviewed,us,us
+2016-12-25T14:22:27.010Z,-43.4064,-73.9413,38,7.6,mww,,29,0.355,0.79,us,us10007mn3,2017-03-23T22:52:02.040Z,"41km SW of Puerto Quellon, Chile",earthquake,5.4,1.9,,,reviewed,us,us
+2016-12-17T10:51:10.500Z,-4.5049,153.5216,94.54,7.9,mww,,13,1.389,0.97,us,us200081v8,2017-03-16T02:31:24.040Z,"54km E of Taron, Papua New Guinea",earthquake,7.3,3.8,,,reviewed,us,us
+2016-12-08T17:38:46.280Z,-10.6812,161.3273,40,7.8,mww,,13,1.836,0.88,us,us20007z80,2017-03-03T07:06:08.040Z,"69km WSW of Kirakira, Solomon Islands",earthquake,8.3,1.8,,,reviewed,us,us
+2016-11-13T11:02:56.340Z,-42.7373,173.054,15.11,7.8,mww,,21,0.481,0.56,us,us1000778i,2017-09-03T07:16:18.360Z,"54km NNE of Amberley, New Zealand",earthquake,4.6,3.2,,,reviewed,us,us
+2016-09-01T16:37:57.300Z,-37.3586,179.1461,19,7,mww,,21,0.698,0.88,us,us10006jbi,2017-02-07T23:50:57.758Z,"175km NE of Gisborne, New Zealand",earthquake,6.8,1.7,,,reviewed,us,us
+2016-08-29T04:29:57.860Z,-0.0456,-17.8255,10,7.1,mww,,24,8.561,0.87,us,us20006uy6,2017-02-07T23:50:50.814Z,"North of Ascension Island",earthquake,8.4,1.7,,,reviewed,us,us
+2016-08-19T07:32:22.710Z,-55.2852,-31.8766,10,7.4,mww,,18,2.852,0.79,us,us10006exl,2017-02-07T23:50:43.677Z,"South Georgia Island region",earthquake,8.4,1.7,,,reviewed,us,us
+2016-08-12T01:26:36.280Z,-22.4765,173.1167,16.37,7.2,mww,,14,4.823,0.9,us,us10006d5h,2017-02-07T23:50:38.119Z,"110km E of Ile Hunter, New Caledonia",earthquake,6.7,2.6,,,reviewed,us,us
+2016-07-29T21:18:24.740Z,18.5429,145.5073,196,7.7,mww,,14,3.294,1.38,us,us100068jg,2017-02-07T23:50:15.901Z,"29km SW of Agrihan, Northern Mariana Islands",earthquake,7.5,1.8,,,reviewed,us,us
+2016-05-28T09:46:59.780Z,-56.2409,-26.9353,78,7.2,mww,,24,5.803,0.89,us,us20005ysu,2017-02-07T23:49:54.060Z,"53km NNE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,6.3,1.8,,,reviewed,us,us
+2016-04-28T19:33:24.070Z,-16.0429,167.3786,24,7,mww,,14,0.616,1.33,us,us10005c88,2017-10-11T21:27:50.254Z,"2km N of Norsup, Vanuatu",earthquake,2.9,1.7,,,reviewed,us,us
+2016-04-16T23:58:36.980Z,0.3819,-79.9218,20.59,7.8,mww,,15,1.44,0.94,us,us20005j32,2017-10-11T21:25:58.487Z,"27km SSE of Muisne, Ecuador",earthquake,5.7,3.2,,,reviewed,us,us
+2016-04-15T16:25:06.220Z,32.7906,130.7543,10,7,mww,,32,0.349,0.85,us,us20005iis,2017-10-11T21:25:06.765Z,"1km E of Kumamoto-shi, Japan",earthquake,4.9,1.7,,,reviewed,us,us
+2016-03-02T12:49:48.110Z,-4.9521,94.3299,24,7.8,mww,,20,7.009,1.14,us,us10004u1y,2017-02-07T23:49:13.268Z,"Southwest of Sumatra, Indonesia",earthquake,7.5,1.8,,,reviewed,us,us
+2016-01-30T03:25:12.220Z,53.9776,158.5463,177,7.2,mww,,17,0.958,1.19,us,us20004vvx,2017-10-11T21:21:33.844Z,"88km N of Yelizovo, Russia",earthquake,5.8,1.8,,,reviewed,us,us
+2016-01-24T10:30:30.230Z,59.6363,-153.4051,129,7.1,mww,,19,0.72,2.11,us,us10004gqp,2017-10-11T21:20:46.268Z,"86km E of Old Iliamna, Alaska",earthquake,5,1.8,,,reviewed,us,us
+2015-12-07T07:50:05.950Z,38.2107,72.7797,22,7.2,mww,,18,1.116,0.94,us,us100044k6,2017-10-11T21:18:27.410Z,"104km W of Murghob, Tajikistan",earthquake,5.5,1.7,,,reviewed,us,us
+2015-12-04T22:25:00.110Z,-47.6165,85.0913,35,7.1,mww,,8,10.034,1.42,us,us100043z2,2017-03-10T18:26:22.212Z,"Southeast Indian Ridge",earthquake,8,1.8,,,reviewed,us,us
+2015-11-24T22:50:54.370Z,-10.0598,-71.0184,620.56,7.6,mww,,10,2.852,1,us,us100040x6,2016-11-10T22:02:05.964Z,"211km S of Tarauaca, Brazil",earthquake,8.5,3.1,,,reviewed,us,us
+2015-11-24T22:45:38.880Z,-10.5372,-70.9437,606.21,7.6,mww,,10,3.287,1.36,us,us100040ww,2017-05-22T23:03:26.992Z,"173km WNW of Iberia, Peru",earthquake,8.5,3.2,,,reviewed,us,us
+2015-10-26T09:09:42.560Z,36.5244,70.3676,231,7.5,mww,,18,0.622,1.43,us,us10003re5,2017-10-11T21:15:38.714Z,"45km E of Farkhar, Afghanistan",earthquake,6.7,1.9,,,reviewed,us,us
+2015-10-20T21:52:02.560Z,-14.8595,167.3028,135,7.1,mww,,11,0.592,1.02,us,us10003q0q,2017-10-11T21:15:13.732Z,"34km NE of Port-Olry, Vanuatu",earthquake,4.3,1.8,,,reviewed,us,us
+2015-09-16T23:18:41.850Z,-31.5622,-71.4262,28.41,7,mww,,13,0.903,0.93,us,us20003k7w,2017-10-11T21:12:34.378Z,"25km WNW of Illapel, Chile",earthquake,4.3,3,,,reviewed,us,us
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2017-10-11T21:11:29.884Z,"48km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
+2015-07-27T21:41:21.710Z,-2.6286,138.5277,48,7,mww,,12,6.278,1.2,us,us200030kn,2017-10-11T21:10:02.188Z,"228km W of Abepura, Indonesia",earthquake,6.7,1.8,,,reviewed,us,us
+2015-07-18T02:27:33.820Z,-10.4012,165.1409,11,7,mww,,22,5.205,1.09,us,us20002yaw,2017-10-11T21:09:35.978Z,"83km WNW of Lata, Solomon Islands",earthquake,7.2,1.7,,,reviewed,us,us
+2015-06-17T12:51:32.790Z,-35.3639,-17.1605,10,7,mww,,34,21.859,1.16,us,us20002qn7,2016-12-02T22:51:15.286Z,"Southern Mid-Atlantic Ridge",earthquake,10.7,1.7,,,reviewed,us,us
+2015-05-30T11:23:02.110Z,27.8386,140.4931,664,7.8,mww,,12,1.675,1.12,us,us20002ki3,2016-11-13T11:55:00.602Z,"189km WNW of Chichi-shima, Japan",earthquake,9.2,1.9,,,reviewed,us,us
+2015-05-12T07:05:19.730Z,27.8087,86.0655,15,7.3,mww,,11,0.677,0.92,us,us20002ejl,2017-10-11T21:06:44.222Z,"19km SE of Kodari, Nepal",earthquake,7.4,1.7,,,reviewed,us,us
+2015-05-07T07:10:19.590Z,-7.2175,154.5567,10,7.1,mww,,11,3.835,0.7,us,us20002das,2017-10-11T21:06:29.518Z,"143km SW of Panguna, Papua New Guinea",earthquake,7.1,1.7,,,reviewed,us,us
+2015-05-05T01:44:06.380Z,-5.4624,151.8751,55,7.5,mww,,22,1.295,1.02,us,us20002bnf,2017-10-11T21:06:08.205Z,"130km SSW of Kokopo, Papua New Guinea",earthquake,6.1,1.9,,,reviewed,us,us
+2015-04-25T06:11:25.950Z,28.2305,84.7314,8.22,7.8,mww,,12,1.857,0.96,us,us20002926,2017-09-12T03:50:51.937Z,"36km E of Khudi, Nepal",earthquake,7.3,2.9,,,reviewed,us,us
+2015-03-29T23:48:31.010Z,-4.7294,152.5623,41,7.5,mww,,19,0.666,1.32,us,us10001rvu,2017-10-11T21:03:24.630Z,"53km SE of Kokopo, Papua New Guinea",earthquake,7,1.8,,,reviewed,us,us
+2015-02-27T13:45:05.370Z,-7.2968,122.5348,552.06,7,mww,,12,1.362,1.12,us,usc000ttkd,2016-12-02T23:15:06.728Z,"130km N of Nebe, Indonesia",earthquake,7.1,3.6,,,reviewed,us,us
+2015-02-13T18:59:12.230Z,52.6487,-31.9016,16.68,7.1,mww,,17,11.262,0.79,us,usb000tp5q,2017-03-10T17:01:30.273Z,"Northern Mid-Atlantic Ridge",earthquake,6.8,1.4,,,reviewed,us,us
+2014-11-15T02:31:41.720Z,1.8929,126.5217,45,7.1,mww,,18,1.397,0.71,us,usc000sxh8,2017-10-11T20:59:23.312Z,"154km NW of Kota Ternate, Indonesia",earthquake,5.8,1.7,,,reviewed,us,us
+2014-11-01T18:57:22.380Z,-19.6903,-177.7587,434,7.1,mww,,13,4.415,0.84,us,usc000stdc,2016-12-02T23:21:38.451Z,"144km NE of Ndoi Island, Fiji",earthquake,8.5,1.2,,,reviewed,us,us
+2014-10-14T03:51:34.460Z,12.5262,-88.1225,40,7.3,mww,,18,1.078,0.7,us,usb000slwn,2017-10-11T20:58:16.988Z,"74km S of Intipuca, El Salvador",earthquake,5.6,1.8,,,reviewed,us,us
+2014-10-09T02:14:31.440Z,-32.1082,-110.8112,16.54,7,mww,,22,5.127,0.43,us,usb000sk6k,2016-12-02T23:26:52.341Z,"Southern East Pacific Rise",earthquake,8.2,2.9,,,reviewed,us,us
+2014-06-23T20:53:09.700Z,51.8486,178.7352,109,7.9,mww,,22,0.133,0.71,us,usc000rki5,2017-03-09T17:33:31.804Z,"19km SE of Little Sitkin Island, Alaska",earthquake,,1.8,,,reviewed,us,us
+2014-04-19T13:28:00.810Z,-6.7547,155.0241,43.37,7.5,mww,,16,3.82,1.25,us,usb000pr89,2017-02-07T23:44:34.795Z,"70km SW of Panguna, Papua New Guinea",earthquake,,3.8,,,reviewed,us,us
+2014-04-18T14:27:24.920Z,17.397,-100.9723,24,7.2,mww,,46,2.25,1.2,us,usb000pq41,2017-10-11T20:50:14.709Z,"33km ESE of Petatlan, Mexico",earthquake,,1.5,,,reviewed,us,us
+2014-04-13T12:36:19.230Z,-11.4633,162.0511,39,7.4,mww,,17,2.885,1,us,usc000piqj,2017-03-08T17:14:13.121Z,"112km S of Kirakira, Solomon Islands",earthquake,,1.8,,,reviewed,us,us
+2014-04-12T20:14:39.300Z,-11.2701,162.1481,22.56,7.6,mww,,13,2.828,0.71,us,usc000phx5,2017-02-07T23:44:27.580Z,"93km SSE of Kirakira, Solomon Islands",earthquake,,2.8,,,reviewed,us,us
+2014-04-11T07:07:23.130Z,-6.5858,155.0485,60.53,7.1,mww,,21,3.729,0.88,us,usc000pft9,2017-02-15T22:11:22.669Z,"56km WSW of Panguna, Papua New Guinea",earthquake,,3.9,,,reviewed,us,us
+2014-04-03T02:43:13.110Z,-20.5709,-70.4931,22.4,7.7,mww,,44,1.029,0.82,us,usc000p27i,2017-10-11T20:49:19.772Z,"53km SW of Iquique, Chile",earthquake,,3.4,,,reviewed,us,us
+2014-04-01T23:46:47.260Z,-19.6097,-70.7691,25,8.2,mww,,23,0.609,0.66,us,usc000nzvd,2017-10-11T20:48:25.588Z,"94km NW of Iquique, Chile",earthquake,,1.8,,,reviewed,us,us
+2013-11-25T06:27:33.300Z,-53.9451,-55.0033,11.78,7,mww,,31,2.935,1.08,us,usb000l5zn,2016-12-02T23:58:58.844Z,"Falkland Islands region",earthquake,,2.4,,,reviewed,us,us
+2013-11-17T09:04:55.530Z,-60.2738,-46.4011,10,7.7,mww,,23,8.05,1.33,us,usb000l0gq,2017-02-07T23:43:47.889Z,"Scotia Sea",earthquake,,1.7,,,reviewed,us,us
+2013-10-25T17:10:19.710Z,37.1557,144.6611,35,7.1,mww,,10,3.968,1.01,us,usc000kn4n,2017-04-06T20:14:18.920Z,"Off the east coast of Honshu, Japan",earthquake,,1.8,,,reviewed,us,us
+2013-10-15T00:12:32.050Z,9.8796,124.1167,19.04,7.1,mww,,12,3.144,1.3,us,usb000kdb4,2017-10-11T20:41:20.864Z,"4km SE of Sagbayan, Philippines",earthquake,,2.9,,,reviewed,us,us
+2013-09-25T16:42:43.170Z,-15.8385,-74.5112,40,7.1,mww,,17,4.446,0.9,us,usb000jzma,2017-10-11T20:40:21.492Z,"46km SSE of Acari, Peru",earthquake,,1.8,,,reviewed,us,us
+2013-09-24T11:29:47.970Z,26.951,65.5009,15,7.7,mww,,17,7.241,0.93,us,usb000jyiv,2017-10-11T20:39:24.785Z,"61km NNE of Awaran, Pakistan",earthquake,,1.6,,,reviewed,us,us
+2013-08-30T16:25:02.300Z,51.537,-175.2297,29,7,mww,,53,0.624,0.89,us,usb000jdt7,2016-12-03T00:22:20.647Z,"101km SW of Atka, Alaska",earthquake,,1.8,,,reviewed,us,us
+2013-07-15T14:03:39.880Z,-60.857,-25.07,11,7.3,mww,398,43,,0.88,us,usb000ief9,2016-12-03T00:28:57.440Z,"218km SSE of Bristol Island, South Sandwich Islands",earthquake,,,,,reviewed,us,us
+2013-07-07T18:35:30.740Z,-3.917,153.927,385.5,7.3,mww,117,24,,0.88,us,usb000i89z,2016-12-03T00:30:33.429Z,"115km ENE of Taron, Papua New Guinea",earthquake,,4,,,reviewed,us,us
+2013-05-24T05:44:48.980Z,54.892,153.221,598.1,8.3,mww,385,10,,1.02,us,usb000h4jh,2016-12-03T00:35:07.656Z,"Sea of Okhotsk",earthquake,,4.1,,,reviewed,us,us
+2013-05-23T17:19:04.750Z,-23.009,-177.232,173.7,7.4,mww,626,16,,0.85,us,usb000h3k3,2017-03-15T16:46:33.381Z,"282km SW of Vaini, Tonga",earthquake,,3.2,,,reviewed,us,us
+2013-04-19T03:05:52.650Z,46.221,150.788,110,7.2,mww,770,10.1,,0.86,us,usb000gbf8,2017-10-11T20:30:52.760Z,"251km ENE of Kuril'sk, Russia",earthquake,,,,,reviewed,us,us
+2013-04-16T10:44:20.180Z,28.033,61.996,80,7.7,mww,506,26.6,,1.09,us,usb000g7x7,2017-10-11T20:29:40.317Z,"83km E of Khash, Iran",earthquake,,,,,reviewed,us,us
+2013-04-06T04:42:35.860Z,-3.517,138.476,66,7,mww,640,11.4,,0.81,us,usb000g13s,2017-10-11T20:28:23.198Z,"240km E of Enarotali, Indonesia",earthquake,,,,,reviewed,us,us
+2013-02-08T15:26:38.470Z,-10.928,166.018,21,7.1,mww,334,16.5,,0.92,us,usc000f40j,2017-10-11T20:25:17.710Z,"31km SE of Lata, Solomon Islands",earthquake,,,,,reviewed,us,us
+2013-02-06T01:54:14.610Z,-10.499,165.588,8.8,7,mww,445,17.5,,1.22,us,usc000f1ts,2017-10-11T20:24:18.723Z,"27km NNW of Lata, Solomon Islands",earthquake,,5.5,,,reviewed,us,us
+2013-02-06T01:23:19.760Z,-11.183,164.882,10,7.1,mww,550,18.4,,1.19,us,usc000f1se,2017-10-11T20:24:03.710Z,"114km WSW of Lata, Solomon Islands",earthquake,,,,,reviewed,us,us
+2013-02-06T01:12:25.830Z,-10.799,165.114,24,8,mww,460,20.9,,1.29,us,usc000f1s0,2017-10-11T20:23:41.773Z,"76km W of Lata, Solomon Islands",earthquake,,,,,reviewed,us,us
+2013-01-05T08:58:19.330Z,55.393,-134.652,10,7.5,mww,659,28.5,,1.26,us,usp000jxum,2017-10-11T20:21:09.570Z,"Southeastern Alaska",earthquake,,,,,reviewed,us,us
+2012-12-10T16:53:08.770Z,-6.533,129.825,155,7.1,mww,517,8.7,,0.95,us,usp000jwt8,2016-12-07T19:07:56.311Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+2012-12-07T08:18:23.130Z,37.89,143.949,31,7.3,mww,918,14.8,,0.91,us,usp000jwjn,2017-10-11T20:20:27.037Z,"off the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2012-11-07T16:35:46.930Z,13.988,-91.895,24,7.4,mww,751,25.5,,1.27,us,usp000jv5f,2017-10-11T20:17:50.879Z,"offshore Guatemala",earthquake,,,,,reviewed,us,us
+2012-10-28T03:04:08.820Z,52.788,-132.101,14,7.8,mww,807,42.7,,0.99,us,usp000juhz,2017-10-11T20:16:52.193Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,us
+2012-09-30T16:31:35.970Z,1.929,-76.362,170,7.3,mww,934,15.5,,0.87,us,usp000jta1,2017-10-11T20:15:25.663Z,"Colombia",earthquake,,,,,reviewed,us,us
+2012-09-05T14:42:07.800Z,10.085,-85.315,35,7.6,mww,703,34.3,,1.2,us,usp000jrsw,2017-04-26T18:12:56.424Z,"Costa Rica",earthquake,,,,,reviewed,us,us
+2012-08-31T12:47:33.380Z,10.811,126.638,28,7.6,mww,682,10.2,,1.02,us,usp000jr83,2017-10-11T20:14:06.897Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2012-08-27T04:37:19.430Z,12.139,-88.59,28,7.3,mww,417,37,,1.3,us,usp000jqvm,2017-10-11T20:13:30.051Z,"off the coast of El Salvador",earthquake,,,,,reviewed,us,us
+2012-08-14T02:59:38.460Z,49.8,145.064,583.2,7.7,mww,862,13.8,,0.83,us,usp000jq9h,2017-10-11T20:11:35.325Z,"Sea of Okhotsk",earthquake,,2.6,,,reviewed,us,us
+2012-04-12T07:15:48.500Z,28.696,-113.104,13,7,mww,474,95.9,,1.18,us,usp000jhr6,2017-10-11T20:04:26.508Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,us
+2012-04-11T10:43:10.850Z,0.802,92.463,25.1,8.2,mwc,341,14.9,,0.9,us,usp000jhjb,2016-03-03T16:54:50.905Z,"off the west coast of northern Sumatra",earthquake,,7.3,,,reviewed,us,us
+2012-04-11T08:38:36.720Z,2.327,93.063,20,8.6,mw,499,16.6,,1.33,official,official20120411083836720_20,2017-10-11T20:03:25.622Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,official
+2012-03-25T22:37:06.000Z,-35.2,-72.217,40.7,7.1,mww,553,15.2,,,us,usp000jgsw,2017-10-11T20:02:35.393Z,"Maule, Chile",earthquake,,,,,reviewed,guc,us
+2012-03-20T18:02:47.440Z,16.493,-98.231,20,7.4,mww,672,37.9,,0.98,us,usp000jghj,2017-10-11T20:01:26.589Z,"Oaxaca, Mexico",earthquake,,,,,reviewed,us,us
+2012-02-02T13:34:40.650Z,-17.827,167.133,23,7.1,mww,573,12,,1.07,us,usp000jeag,2017-10-11T19:58:34.017Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2012-01-10T18:36:59.080Z,2.433,93.21,19,7.2,mww,443,17,,1.09,us,usp000jdar,2017-02-07T23:40:12.958Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,us
+2011-12-14T05:04:58.630Z,-7.551,146.809,135,7.1,mww,485,10.6,,0.78,us,usp000jc5z,2017-04-13T22:27:02.781Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,reviewed,us,us
+2011-10-23T10:41:23.250Z,38.721,43.508,18,7.1,mww,693,19.7,,0.93,us,usp000j9rr,2017-04-26T18:12:42.264Z,"eastern Turkey",earthquake,,,,,reviewed,us,us
+2011-10-21T17:57:16.100Z,-28.993,-176.238,33,7.4,mww,707,14.8,,0.87,us,usp000j9nm,2017-02-07T23:39:45.655Z,"Kermadec Islands region",earthquake,,,,,reviewed,us,us
+2011-09-15T19:31:04.080Z,-21.611,-179.528,644.6,7.3,mww,646,22.2,,1.06,us,usp000j83e,2016-12-07T19:54:41.820Z,"Fiji region",earthquake,,,,,reviewed,us,us
+2011-09-03T22:55:40.920Z,-20.671,169.716,185.1,7,mww,406,15.3,,0.99,us,usp000j7jb,2016-12-07T19:56:23.350Z,"Vanuatu",earthquake,,6.2,,,reviewed,us,us
+2011-08-24T17:46:11.650Z,-7.641,-74.525,147,7,mww,471,26.9,,0.87,us,usp000j6z8,2017-04-13T22:26:42.474Z,"northern Peru",earthquake,,,,,reviewed,us,us
+2011-08-20T18:19:23.550Z,-18.311,168.218,28,7.1,mww,564,12.3,,1.07,us,usp000j6rj,2017-04-26T18:12:29.958Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2011-08-20T16:55:02.810Z,-18.365,168.143,32,7.2,mww,280,18.4,,1.26,us,usp000j6r4,2017-04-13T22:26:40.060Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2011-07-10T00:57:10.800Z,38.034,143.264,23,7,mww,531,12.4,,1.04,us,usp000j4gp,2016-12-07T20:05:08.501Z,"off the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2011-07-06T19:03:18.260Z,-29.539,-176.34,17,7.6,mww,567,33.5,,1.17,us,usp000j48h,2017-02-07T23:39:31.181Z,"Kermadec Islands region",earthquake,,,,,reviewed,us,us
+2011-06-24T03:09:39.470Z,52.05,-171.836,52,7.3,mww,791,15.3,,1.05,us,usp000j3mq,2016-12-07T20:08:09.554Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,us
+2011-04-07T14:32:43.290Z,38.276,141.588,42,7.1,mww,446,17.7,,0.94,us,usp000hzf6,2017-04-26T18:12:10.065Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2011-03-11T06:25:50.300Z,38.058,144.59,18.6,7.7,mwc,507,10.8,,0.85,us,usp000hvpg,2016-12-07T20:13:52.540Z,"off the east coast of Honshu, Japan",earthquake,,8,,,reviewed,us,us
+2011-03-11T06:15:40.280Z,36.281,141.111,42.6,7.9,mwc,163,48.4,,1.44,us,usp000hvpa,2017-04-26T18:11:51.674Z,"near the east coast of Honshu, Japan",earthquake,,9.6,,,reviewed,us,us
+2011-03-11T05:46:24.120Z,38.297,142.373,29,9.1,mww,541,9.5,,1.16,official,official20110311054624120_30,2017-04-26T18:11:49.381Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,official
+2011-03-09T02:45:20.330Z,38.435,142.842,32,7.3,mww,550,17.4,,0.98,us,usp000hvhj,2017-04-26T18:11:47.089Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2011-01-18T20:23:23.480Z,28.777,63.951,68,7.2,mww,372,25.3,,1.3,us,usp000htb4,2017-04-13T22:25:50.351Z,"southwestern Pakistan",earthquake,,,,,reviewed,us,us
+2011-01-13T16:16:41.540Z,-20.628,168.471,9,7,mww,578,13.3,,0.99,us,usp000ht15,2017-04-26T18:11:38.697Z,"Loyalty Islands, New Caledonia",earthquake,,,,,reviewed,us,us
+2011-01-02T20:20:17.780Z,-38.355,-73.326,24,7.2,mww,397,30.1,,1.1,us,usp000hsfq,2017-04-13T22:25:48.400Z,"Araucania, Chile",earthquake,,,,,reviewed,us,us
+2011-01-01T09:56:58.120Z,-26.803,-63.136,576.8,7,mww,607,18.4,,0.85,us,usp000hsdc,2016-12-07T20:33:49.247Z,"Santiago Del Estero, Argentina",earthquake,,,,,reviewed,us,us
+2010-12-25T13:16:37.000Z,-19.702,167.947,16,7.3,mwc,409,12,,1.17,us,usp000hrw0,2017-04-26T18:11:36.977Z,"Vanuatu region",earthquake,,,,,reviewed,us,us
+2010-12-21T17:19:40.660Z,26.901,143.698,14,7.4,mwc,603,13,,0.99,us,usp000hr97,2017-02-07T23:38:52.325Z,"Bonin Islands, Japan region",earthquake,,,,,reviewed,us,us
+2010-10-25T14:42:22.460Z,-3.487,100.082,20.1,7.8,mwc,379,23,,1.17,us,usp000hnj4,2017-04-13T22:25:37.195Z,"Kepulauan Mentawai region, Indonesia",earthquake,,3.5,,,reviewed,us,gcmt
+2010-09-29T17:11:25.940Z,-4.963,133.76,26,7,mwc,271,15.1,,1.31,us,usp000hmbq,2017-04-13T22:25:34.257Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+2010-09-03T16:35:47.770Z,-43.522,171.83,12,7,mwc,365,15.8,,1.3,us,usp000hk46,2017-04-26T18:11:19.944Z,"South Island of New Zealand",earthquake,,,,,reviewed,us,us
+2010-08-12T11:54:15.580Z,-1.266,-77.306,206.7,7.1,mwc,672,12.4,,0.87,us,usp000hj05,2017-04-26T18:11:18.710Z,"Ecuador",earthquake,,,,,reviewed,us,us
+2010-08-10T05:23:44.980Z,-17.541,168.069,25,7.3,mwc,405,20.2,,1.25,us,usp000hhuc,2017-04-13T22:25:27.409Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2010-08-04T22:01:43.620Z,-5.746,150.765,44,7,mww,396,12.7,,1.19,us,usp000hhhx,2017-04-26T18:11:18.134Z,"New Britain region, Papua New Guinea",earthquake,,,,,reviewed,us,us
+2010-07-23T23:15:10.190Z,6.776,123.259,640.6,7.5,mwc,441,17.5,,0.82,us,usp000hgmq,2016-11-10T02:31:03.641Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,gcmt
+2010-07-23T22:51:11.840Z,6.497,123.48,578,7.6,mwc,340,15.1,,0.91,us,usp000hgmh,2016-11-10T02:31:03.137Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2010-07-23T22:08:11.250Z,6.718,123.409,607.1,7.3,mwc,491,16.5,,0.91,us,usp000hgmd,2016-11-10T02:31:02.624Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2010-07-18T13:34:59.360Z,-5.931,150.59,35,7.3,mwc,397,18.2,,1.16,us,usp000hfku,2017-04-26T18:11:10.714Z,"New Britain region, Papua New Guinea",earthquake,,,,,reviewed,us,gcmt
+2010-06-16T03:16:27.550Z,-2.174,136.543,18,7,mwc,307,18.1,,1.27,us,usp000he3f,2017-04-26T18:11:02.712Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+2010-06-12T19:26:50.460Z,7.881,91.936,35,7.5,mwc,514,18.6,,1.1,us,usp000hdwb,2017-04-13T22:25:13.544Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,gcmt
+2010-05-27T17:14:46.570Z,-13.698,166.643,31,7.2,mwc,327,11.7,,1.08,us,usp000hd84,2017-04-26T18:10:58.107Z,"Vanuatu",earthquake,,,,,reviewed,us,gcmt
+2010-05-09T05:59:41.620Z,3.748,96.018,38,7.2,mwc,611,20.6,,0.92,us,usp000hchk,2017-04-26T18:10:55.844Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+2010-04-06T22:15:01.580Z,2.383,97.048,31,7.8,mwc,352,19.2,,1.19,us,usp000hat0,2017-04-26T18:10:45.493Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2010-04-04T22:40:42.360Z,32.2861667,-115.2953333,9.987,7.2,mw,10,239,0.5137,0.11,ci,ci14607652,2017-08-29T18:24:31.570Z,"12km SW of Delta, B.C., MX",earthquake,1.81,31.61,,0,reviewed,ci,ci
+2010-03-11T14:55:27.510Z,-34.326,-71.799,18,7,mwc,403,17.1,,1.02,us,usp000h94v,2017-04-13T22:24:47.726Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-02-27T08:01:23.010Z,-37.773,-75.048,35,7.4,mwc,409,17.6,,1.06,us,usp000h7sq,2016-11-10T02:39:50.139Z,"off the coast of Bio-Bio, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2017-04-26T18:10:11.832Z,"offshore Bio-Bio, Chile",earthquake,,9.2,,,reviewed,us,official
+2010-02-26T20:31:26.970Z,25.93,128.425,25,7,mwc,487,15.7,,1.05,us,usp000h7qu,2017-04-13T22:24:36.894Z,"Ryukyu Islands, Japan",earthquake,,,,,reviewed,us,us
+2010-01-12T21:53:10.060Z,18.443,-72.571,13,7,mwc,500,22.7,,0.97,us,usp000h60h,2017-04-26T18:10:00.476Z,"Haiti region",earthquake,,,,,reviewed,us,us
+2010-01-03T22:36:25.640Z,-8.783,157.354,10,7.1,mwc,377,15,,1.09,us,usp000h5np,2017-04-13T22:24:22.888Z,"Solomon Islands",earthquake,,,,,reviewed,us,gcmt
+2009-11-09T10:44:55.110Z,-17.239,178.331,595,7.3,mwc,430,15,,0.87,us,usp000h3wn,2016-11-10T02:20:12.672Z,"Fiji",earthquake,,,,,reviewed,us,gcmt
+2009-10-07T23:13:48.160Z,-13.093,166.497,31.1,7.4,mwc,314,20.2,,0.96,us,usp000h2gr,2017-04-26T18:09:35.314Z,"Vanuatu",earthquake,,2.4,,,reviewed,us,gcmt
+2009-10-07T22:18:51.240Z,-12.517,166.382,35,7.8,mwc,195,20.3,,0.97,us,usp000h2gd,2017-04-13T22:23:58.947Z,"Santa Cruz Islands",earthquake,,,,,reviewed,us,us
+2009-10-07T22:03:14.470Z,-13.006,166.51,45,7.7,mww,283,23.2,,1.31,us,usp000h2g9,2017-04-13T22:23:58.417Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2009-09-30T10:16:09.250Z,-0.72,99.867,81,7.6,mwc,498,14,,0.92,us,usp000h237,2017-04-26T18:09:34.179Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2009-09-29T17:48:10.990Z,-15.489,-172.095,18,8.1,mwc,520,20.8,,1.01,us,usp000h1ys,2017-04-26T18:09:33.616Z,"Samoa Islands region",earthquake,,,,,reviewed,us,gcmt
+2009-09-02T07:55:01.050Z,-7.782,107.297,46,7,mwc,312,16.3,,0.89,us,usp000h152,2017-04-13T22:23:51.230Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+2009-08-10T19:55:38.730Z,14.099,92.902,24,7.5,mwc,303,18.2,,1.03,us,usp000h05x,2017-04-26T18:09:25.645Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,us
+2009-08-09T10:55:55.110Z,33.167,137.944,292,7.1,mwc,447,14.2,,0.91,us,usp000h04j,2016-11-10T02:15:51.877Z,"near the south coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2009-07-15T09:22:29.030Z,-45.762,166.562,12,7.8,mwc,434,16.8,,,us,usp000gz8j,2017-04-26T18:09:21.023Z,"off the west coast of the South Island of New Zealand",earthquake,,,,,reviewed,wel,gcmt
+2009-05-28T08:24:46.560Z,16.731,-86.217,19,7.3,mwc,464,27.2,,1.12,us,usp000gxkj,2017-04-26T18:09:16.378Z,"offshore Honduras",earthquake,,,,,reviewed,us,gcmt
+2009-03-19T18:17:40.470Z,-23.043,-174.66,31,7.6,mwc,504,14,,1,us,usp000gv5p,2017-02-07T23:35:48.898Z,"Tonga region",earthquake,,,,,reviewed,us,us
+2009-02-18T21:53:45.160Z,-27.424,-176.33,25,7,mwc,353,18.5,,0.95,us,usp000gu5x,2016-11-10T02:08:13.950Z,"Kermadec Islands region",earthquake,,,,,reviewed,us,gcmt
+2009-02-11T17:34:50.490Z,3.886,126.387,20,7.2,mwc,432,18.6,,1.14,us,usp000gtnc,2017-04-26T18:08:56.349Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+2009-01-15T17:49:39.070Z,46.857,155.154,36,7.4,mwc,522,15.6,,0.91,us,usp000gsmz,2016-11-10T02:06:40.928Z,"east of the Kuril Islands",earthquake,,,,,reviewed,us,us
+2009-01-03T22:33:40.290Z,-0.691,133.305,23,7.4,mwc,314,21.1,,1.03,us,usp000gs3t,2017-04-13T22:23:10.905Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2009-01-03T19:43:50.650Z,-0.414,132.885,17,7.7,mwc,288,29.8,,1.27,us,usp000gs2d,2017-04-26T18:08:52.980Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2008-11-24T09:02:58.760Z,54.203,154.322,492.3,7.3,mwc,531,22.7,,0.77,us,usp000gpbs,2016-11-10T02:04:41.190Z,"Sea of Okhotsk",earthquake,,3.2,,,reviewed,us,us
+2008-11-16T17:02:32.700Z,1.271,122.091,30,7.4,mww,365,33.7,,1.1,us,usp000gnur,2017-04-26T18:08:47.884Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+2008-09-29T15:19:31.590Z,-29.756,-177.683,36,7,mwc,524,17.4,,1.21,us,usp000ghyg,2016-11-10T02:02:10.878Z,"Kermadec Islands, New Zealand",earthquake,,,,,reviewed,us,us
+2008-07-19T02:39:28.700Z,37.552,142.214,22,7,mwc,577,18.2,,0.84,us,usp000gcjg,2017-04-26T18:08:24.320Z,"off the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2008-07-05T02:12:04.480Z,53.882,152.886,632.8,7.7,mwc,777,13.5,,0.83,us,usp000gbc0,2016-11-10T01:58:18.749Z,"Sea of Okhotsk",earthquake,,3.1,,,reviewed,us,us
+2008-06-30T06:17:43.020Z,-58.227,-22.099,8,7,mwc,309,25.4,,1.36,us,usp000gazv,2016-11-10T01:58:08.043Z,"South Sandwich Islands region",earthquake,,,,,reviewed,us,us
+2008-05-12T06:28:01.570Z,31.002,103.322,19,7.9,mwc,774,11.3,,1.2,us,usp000g650,2017-04-26T18:08:06.502Z,"eastern Sichuan, China",earthquake,,,,,reviewed,us,us
+2008-04-12T00:30:12.600Z,-55.664,158.453,16,7.1,mwc,541,34.9,,0.99,us,usp000g3q9,2016-11-10T01:54:29.533Z,"Macquarie Island region",earthquake,,,,,reviewed,us,us
+2008-04-09T12:46:12.720Z,-20.071,168.892,33,7.3,mwc,486,13.4,,1.29,us,usp000g3eq,2017-04-26T18:08:01.290Z,"Loyalty Islands, New Caledonia",earthquake,,,,,reviewed,us,us
+2008-03-20T22:32:57.930Z,35.49,81.467,10,7.2,mwc,532,25.9,,1.03,us,usp000g1w2,2017-04-26T18:07:58.925Z,"Xinjiang-Xizang border region",earthquake,,,,,reviewed,us,us
+2008-02-25T08:36:33.030Z,-2.486,99.972,25,7.2,mwc,505,18.4,,1.22,us,usp000fzx4,2017-04-26T18:07:52.574Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2008-02-20T08:08:30.520Z,2.768,95.964,26,7.4,mwc,607,16.4,,0.97,us,usp000fzau,2017-04-26T18:07:49.023Z,"Simeulue, Indonesia",earthquake,,,,,reviewed,us,us
+2007-12-19T09:30:27.930Z,51.36,-179.509,34,7.2,mwc,702,15.9,,0.96,us,usp000fuse,2016-11-10T01:49:46.260Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,gcmt
+2007-12-09T07:28:20.820Z,-25.996,-177.514,152.5,7.8,mwc,512,11.8,,1.12,us,usp000fu3q,2017-02-07T23:34:19.950Z,"south of the Fiji Islands",earthquake,,6.3,,,reviewed,us,gcmt
+2007-11-29T19:00:20.420Z,14.944,-61.274,156,7.4,mwb,663,13.4,,0.74,us,usp000ftj1,2017-04-13T22:21:46.616Z,"Martinique region, Windward Islands",earthquake,,,,,reviewed,us,us
+2007-11-14T15:40:50.530Z,-22.247,-69.89,40,7.7,mwc,610,22.4,,1.11,us,usp000fshy,2017-04-26T18:07:20.514Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-10-31T03:30:15.960Z,18.9,145.388,207,7.2,mwb,461,19.4,,1.09,us,usp000frnh,2016-11-10T01:47:31.576Z,"Pagan region, Northern Mariana Islands",earthquake,,,,,reviewed,us,us
+2007-09-30T05:23:34.070Z,-49.271,164.115,10,7.4,mwc,499,16.6,,1.19,us,usp000fpgq,2016-11-10T01:46:13.437Z,"Auckland Islands, New Zealand region",earthquake,,,,,reviewed,us,gcmt
+2007-09-28T13:38:57.880Z,22.013,142.668,260,7.5,mwc,558,11.8,,0.97,us,usp000fpca,2017-02-07T23:34:02.700Z,"Volcano Islands, Japan region",earthquake,,,,,reviewed,us,gcmt
+2007-09-13T03:35:28.720Z,-2.13,99.627,22,7,mwc,537,23.1,,1.04,us,usp000fn3d,2017-04-13T22:21:30.066Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-09-12T23:49:03.720Z,-2.625,100.841,35,7.9,mwc,446,29.1,,1.01,us,usp000fn2b,2017-04-26T18:07:05.407Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-09-12T11:10:26.830Z,-4.438,101.367,34,8.4,mww,411,32.3,,1.03,official,official20070912111026830_34,2017-04-13T22:21:27.185Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,official
+2007-09-02T01:05:18.150Z,-11.61,165.762,35,7.2,mwc,312,21.3,,1.31,us,usp000fm6b,2017-04-26T18:07:02.493Z,"Santa Cruz Islands",earthquake,,,,,reviewed,us,gcmt
+2007-08-15T23:40:57.890Z,-13.386,-76.603,39,8,mwc,625,25.7,,0.86,us,usp000fjta,2017-04-26T18:06:59.077Z,"near the coast of central Peru",earthquake,,,,,reviewed,us,gcmt
+2007-08-08T17:05:04.920Z,-5.859,107.419,280,7.5,mwc,228,30.7,,1.13,us,usp000fj6k,2017-02-07T23:33:27.305Z,"Java, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-08-01T17:08:51.400Z,-15.595,167.68,120,7.2,mwb,494,20.4,,1.14,us,usp000fhm9,2017-04-13T22:21:17.792Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2007-04-01T20:39:58.710Z,-8.466,157.043,24,8.1,mwc,439,14.7,,1.32,us,usp000f83m,2017-04-26T18:06:37.851Z,"Solomon Islands",earthquake,,,,,reviewed,us,gcmt
+2007-03-25T00:40:01.610Z,-20.617,169.357,34,7.1,mwb,426,25.3,,1,us,usp000f7b4,2017-04-13T22:20:56.458Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2007-01-21T11:27:45.060Z,1.065,126.282,22,7.5,mwc,570,21.6,,1.22,us,usp000f34b,2017-04-13T22:20:48.531Z,"Molucca Sea",earthquake,,,,,reviewed,us,gcmt
+2007-01-13T04:23:21.160Z,46.243,154.524,10,8.1,mwc,606,14,,1.12,us,usp000f2ab,2017-02-07T23:33:03.561Z,"east of the Kuril Islands",earthquake,,,,,reviewed,us,gcmt
+2006-12-26T12:26:21.140Z,21.799,120.547,10,7.1,mwb,744,29.1,,1,us,usp000f114,2017-04-13T22:20:45.642Z,"Taiwan region",earthquake,,,,,reviewed,us,us
+2006-11-15T11:14:13.570Z,46.592,153.266,10,8.3,mwc,576,20.9,,1.07,us,usp000exfn,2017-04-13T22:20:39.820Z,"Kuril Islands",earthquake,,,,,reviewed,us,gcmt
+2006-08-20T03:41:48.040Z,-61.029,-34.371,13,7,mwb,322,27.1,,1.01,us,usp000erc2,2016-11-10T01:27:15.356Z,"Scotia Sea",earthquake,,,,,reviewed,us,us
+2006-07-17T08:19:26.680Z,-9.284,107.419,20,7.7,mwc,357,36.8,,1.16,us,usp000ensm,2017-04-26T18:06:02.659Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,hrv
+2006-05-16T10:39:23.340Z,-31.81,-179.307,152,7.4,mwb,613,19.7,,1.32,us,usp000eh87,2016-11-10T01:22:21.746Z,"Kermadec Islands region",earthquake,,,,,reviewed,us,us
+2006-05-03T15:26:40.290Z,-20.187,-174.123,55,8,mwc,626,20.7,,1.18,us,usp000eg5g,2017-04-13T22:20:10.613Z,"Tonga",earthquake,,,,,reviewed,us,hrv
+2006-04-20T23:25:02.150Z,60.949,167.089,22,7.6,mwc,579,18.5,,0.87,us,usp000ef1h,2017-04-13T22:20:06.287Z,"near the east coast of Koryakskiy Avtonomnyy Okrug, Russia",earthquake,,,,,reviewed,us,hrv
+2006-02-22T22:19:07.800Z,-21.324,33.583,11,7,mwb,412,23.2,,1.37,us,usp000eamh,2017-04-26T18:05:23.748Z,"Mozambique",earthquake,,,,,reviewed,us,us
+2006-01-27T16:58:53.670Z,-5.473,128.131,397,7.6,mwc,560,22.3,,0.88,us,usp000e8ys,2016-11-10T02:39:43.327Z,"Banda Sea",earthquake,,,,,reviewed,us,hrv
+2006-01-02T22:13:40.490Z,-19.926,-178.178,582.9,7.2,mwc,646,18.7,,1.11,us,usp000e7f0,2016-11-10T02:39:42.745Z,"Fiji region",earthquake,,,,,reviewed,us,hrv
+2006-01-02T06:10:49.760Z,-60.957,-21.606,13,7.4,mwc,271,18.8,,1.28,us,usp000e7dd,2016-11-10T02:39:42.165Z,"east of the South Sandwich Islands",earthquake,,,,,reviewed,us,hrv
+2005-11-14T21:38:51.420Z,38.107,144.896,11,7,mwc,699,21.4,,0.86,us,usp000e462,2016-11-10T01:14:29.675Z,"off the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2005-10-08T03:50:40.800Z,34.539,73.588,26,7.6,mwc,724,21.1,,0.9,us,usp000e12e,2017-04-26T18:04:47.380Z,"Pakistan",earthquake,,,,,reviewed,us,hrv
+2005-09-26T01:55:37.670Z,-5.678,-76.398,115,7.5,mwb,696,26.2,,0.88,us,usp000e09h,2017-04-13T22:19:18.370Z,"northern Peru",earthquake,,,,,reviewed,us,us
+2005-09-09T07:26:43.730Z,-4.539,153.474,90,7.6,mwc,502,20,,1.04,us,usp000dz2j,2017-04-26T18:04:42.090Z,"New Ireland region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2005-08-16T02:46:28.400Z,38.276,142.039,36,7.2,mwc,698,19.6,,0.95,us,usp000dxe2,2017-04-26T18:04:39.721Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2005-07-24T15:42:06.210Z,7.92,92.19,16,7.2,mwc,636,26.4,,0.93,us,usp000dvtc,2017-04-26T18:04:33.839Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2005-06-15T02:50:54.190Z,41.292,-125.953,16,7.2,mwc,420,31.4,,1.2,us,usp000dt25,2017-04-13T22:19:01.514Z,"off the coast of Northern California",earthquake,,,,,reviewed,us,hrv
+2005-06-13T22:44:33.900Z,-19.987,-69.197,115.6,7.8,mwb,714,16.1,,1.01,us,usp000dsw1,2017-04-13T22:19:01.030Z,"Tarapaca, Chile",earthquake,,,,,reviewed,us,us
+2005-03-28T16:09:36.530Z,2.085,97.108,30,8.6,mww,510,22.1,,0.91,official,official20050328160936530_30,2017-04-26T18:04:08.627Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,official
+2005-03-02T10:42:12.230Z,-6.527,129.933,201.7,7.1,mwb,569,18.1,,1.16,us,usp000dhc1,2016-11-10T01:02:12.363Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+2005-02-05T12:23:18.940Z,5.293,123.337,525,7.1,mwc,640,26.4,,1.14,us,usp000dfj2,2017-04-13T22:18:35.775Z,"Celebes Sea",earthquake,,,,,reviewed,us,hrv
+2004-12-26T04:21:29.810Z,6.91,92.958,39.2,7.2,mwc,385,27.9,,1,us,usp000dbg6,2017-04-26T18:03:34.867Z,"Nicobar Islands, India region",earthquake,,7.6,,,reviewed,us,hrv
+2004-12-26T00:58:53.450Z,3.295,95.982,30,9.1,mw,601,22,,1.17,official,official20041226005853450_30,2017-04-26T18:03:30.625Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,official
+2004-12-23T14:59:04.410Z,-49.312,161.345,10,8.1,mwc,331,59.3,,1.12,us,usp000db93,2017-02-07T23:30:56.738Z,"north of Macquarie Island",earthquake,,,,,reviewed,us,hrv
+2004-11-28T18:32:14.130Z,43.006,145.119,39,7,mwb,929,23.9,,0.79,us,usp000d9h1,2017-04-26T18:03:22.300Z,"Hokkaido, Japan region",earthquake,,,,,reviewed,us,us
+2004-11-26T02:25:03.310Z,-3.609,135.404,10,7.1,mwc,439,28.8,,1.18,us,usp000d975,2017-04-26T18:03:18.837Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-11-22T20:26:23.900Z,-46.676,164.721,10,7.1,mwc,585,14.7,,1.13,us,usp000d8ze,2016-11-10T00:52:54.182Z,"off the west coast of the South Island of New Zealand",earthquake,,,,,reviewed,us,hrv
+2004-11-15T09:06:56.560Z,4.695,-77.508,15,7.2,mwb,708,50.2,,0.9,us,usp000d8gx,2017-04-13T22:18:05.705Z,"near the west coast of Colombia",earthquake,,,,,reviewed,us,us
+2004-11-11T21:26:41.150Z,-8.152,124.868,10,7.5,mwc,301,33.8,,1.07,us,usp000d85g,2017-04-26T18:03:15.206Z,"Kepulauan Alor, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-10-09T21:26:53.690Z,11.422,-86.665,35,7,mwc,441,32.2,,1.1,us,usp000d63h,2017-04-26T18:03:01.676Z,"near the coast of Nicaragua",earthquake,,,,,reviewed,us,hrv
+2004-09-05T14:57:18.610Z,33.184,137.071,10,7.4,mwb,594,27.5,,0.91,us,usp000d3mb,2017-04-26T18:02:53.080Z,"near the south coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2004-09-05T10:07:07.820Z,33.07,136.618,14,7.2,mwc,643,28.4,,0.89,us,usp000d3ka,2017-04-26T18:02:52.531Z,"near the south coast of western Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2004-07-25T14:35:19.060Z,-2.427,103.981,582.1,7.3,mwb,641,33.7,,0.85,us,usp000d0v4,2016-11-10T00:41:09.486Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+2004-07-15T04:27:14.730Z,-17.656,-178.76,565.5,7.1,mwc,208,52.2,,0.93,us,usp000d06s,2016-11-10T00:40:18.794Z,"Fiji region",earthquake,,,,,reviewed,us,hrv
+2004-02-07T02:42:35.210Z,-4.003,135.023,10,7.3,mwb,390,23,,1.01,us,usp000ckks,2017-04-26T18:02:20.233Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+2004-02-05T21:05:02.840Z,-3.615,135.538,16.6,7,mwc,367,33,,0.98,us,usp000ckg7,2017-04-26T18:02:19.091Z,"Papua, Indonesia",earthquake,,10.2,,,reviewed,us,hrv
+2004-01-03T16:23:21.020Z,-22.253,169.683,22,7.1,mwc,597,39.8,,1.06,us,usp000cgz9,2016-11-10T00:22:31.166Z,"southeast of the Loyalty Islands",earthquake,,,,,reviewed,us,hrv
+2003-12-27T16:00:59.450Z,-22.015,169.766,10,7.3,mwc,235,46.6,,1.3,us,usp000cg90,2016-11-10T00:56:07.709Z,"southeast of the Loyalty Islands",earthquake,,,,,reviewed,us,hrv
+2003-11-17T06:43:06.800Z,51.146,178.65,33,7.8,mwc,604,24,,1.11,us,usp000cd1n,2017-02-07T23:30:36.854Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,hrv
+2003-10-31T01:06:28.280Z,37.812,142.619,10,7,mwb,568,61.2,,0.8,us,usp000cbpa,2016-11-10T00:50:29.522Z,"off the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2003-09-27T11:33:25.080Z,50.038,87.813,16,7.3,mwb,667,24.5,,1.03,us,usp000c8sz,2017-04-26T18:01:56.451Z,"southwestern Siberia, Russia",earthquake,,,,,reviewed,us,us
+2003-09-25T21:08:00.030Z,41.774,143.593,33,7.4,mwc,514,78.8,,1.02,us,usp000c8mb,2017-04-26T18:01:55.879Z,"Hokkaido, Japan region",earthquake,,,,,reviewed,us,hrv
+2003-09-25T19:50:06.360Z,41.815,143.91,27,8.3,mwc,669,27.4,,0.88,us,usp000c8kv,2017-04-13T22:16:52.704Z,"Hokkaido, Japan region",earthquake,,,,,reviewed,us,hrv
+2003-08-21T12:12:49.790Z,-45.104,167.144,28,7.2,mwc,428,17.5,,1.1,us,usp000c5h6,2017-04-26T18:01:48.796Z,"South Island of New Zealand",earthquake,,,,,reviewed,us,hrv
+2003-08-04T04:37:20.130Z,-60.532,-43.411,10,7.6,mwc,315,25.2,,1.09,us,usp000c41f,2017-02-07T23:29:39.720Z,"Scotia Sea",earthquake,,,,,reviewed,us,hrv
+2003-07-15T20:27:50.530Z,-2.598,68.382,10,7.6,mwc,522,34.9,,0.98,us,usp000c2ka,2017-02-07T23:29:15.124Z,"Carlsberg Ridge",earthquake,,,,,reviewed,us,hrv
+2003-06-20T06:19:38.910Z,-7.606,-71.722,558.1,7.1,mwc,672,22.5,,0.89,us,usp000c0ag,2016-11-10T00:38:05.666Z,"Amazonas, Brazil",earthquake,,,,,reviewed,us,hrv
+2003-05-26T19:23:27.940Z,2.354,128.855,31,7,mwc,473,30.3,,1.09,us,usp000by7n,2017-04-26T18:01:26.627Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,hrv
+2003-05-26T09:24:33.400Z,38.849,141.568,68,7,mwb,690,19.1,,1.01,us,usp000by66,2017-04-26T18:01:26.051Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,us
+2003-03-17T16:36:17.310Z,51.272,177.978,33,7.1,mwb,607,30.3,,1.26,us,usp000bsvs,2016-11-10T00:28:54.651Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,us
+2003-01-22T02:06:34.610Z,18.77,-104.104,24,7.6,mwb,551,,,1.4,us,usp000bnyr,2017-04-26T18:01:03.919Z,"offshore Colima, Mexico",earthquake,,,,,reviewed,us,us
+2003-01-20T08:43:06.070Z,-10.491,160.77,33,7.3,mwc,457,,,0.84,us,usp000bnvq,2017-04-26T18:01:02.733Z,"Solomon Islands",earthquake,,,,,reviewed,us,hrv
+2002-11-17T04:53:53.540Z,47.824,146.209,459.1,7.3,mwc,326,,,1.02,us,usp000bhv1,2016-11-10T00:52:15.634Z,"northwest of the Kuril Islands",earthquake,,,,,reviewed,us,hrv
+2002-11-03T22:12:41.000Z,63.517,-147.444,4.9,7.9,mwc,771,,,,us,usp000bg0m,2017-09-11T21:35:46.486Z,"Central Alaska",earthquake,,,,,reviewed,aeic,hrv
+2002-11-02T01:26:10.700Z,2.824,96.085,30,7.4,mwb,418,,,1.22,us,usp000bfuz,2017-04-26T18:00:50.463Z,"Simeulue, Indonesia",earthquake,,,,,reviewed,us,us
+2002-10-10T10:50:20.570Z,-1.757,134.297,10,7.6,mwc,375,,,1.15,us,usp000be54,2017-04-26T18:00:41.947Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,hrv
+2002-09-08T18:44:23.710Z,-3.302,142.945,13,7.6,mwc,428,,,1.16,us,usp000bbpf,2017-04-26T18:00:31.566Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2002-08-19T11:08:24.310Z,-23.884,178.495,675.4,7.7,mwc,302,,,1.08,us,usp000ba6m,2016-12-17T02:08:14.939Z,"south of the Fiji Islands",earthquake,,,,,reviewed,us,hrv
+2002-08-19T11:01:01.190Z,-21.696,-179.513,580,7.7,mwc,670,,,0.93,us,usp000ba6g,2016-12-16T19:04:19.258Z,"Fiji region",earthquake,,,,,reviewed,us,hrv
+2002-06-28T17:19:30.270Z,43.752,130.666,566,7.3,mwc,712,,,0.86,us,usp000b73z,2016-11-10T00:38:52.496Z,"Jilin-Heilongjiang border region, China",earthquake,,,,,reviewed,us,hrv
+2002-04-26T16:06:07.000Z,13.088,144.619,85.7,7.1,mwc,257,,,1.04,us,usp000b37m,2017-04-26T18:00:08.553Z,"Guam region",earthquake,,3.3,,,reviewed,us,hrv
+2002-03-31T06:52:50.490Z,24.279,122.179,32.8,7.1,mwc,550,,,0.96,us,usp000b1e2,2017-04-26T17:59:59.746Z,"Taiwan region",earthquake,,3.4,,,reviewed,us,hrv
+2002-03-05T21:16:09.130Z,6.033,124.249,31,7.5,mwc,321,,,0.95,us,usp000azqw,2017-04-26T17:59:56.276Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2002-03-03T12:08:19.740Z,36.502,70.482,225.6,7.4,mwc,138,,,1.06,us,usp000azhc,2016-03-14T19:32:17.221Z,"Hindu Kush region, Afghanistan",earthquake,,,,,reviewed,us,hrv
+2002-01-02T17:22:48.760Z,-17.6,167.856,21,7.2,mwc,427,,,0.9,us,usp000avpw,2017-04-26T17:59:39.129Z,"Vanuatu",earthquake,,,,,reviewed,us,hrv
+2001-12-12T14:02:35.040Z,-42.813,124.688,10,7.1,mwc,255,,,0.97,us,usp000aufx,2016-11-10T00:54:48.054Z,"south of Australia",earthquake,,,,,reviewed,us,hrv
+2001-11-14T09:26:10.010Z,35.946,90.541,10,7.8,mwc,368,,,1.07,us,usp000asvm,2017-04-26T17:59:30.105Z,"southern Qinghai, China",earthquake,,,,,reviewed,us,hrv
+2001-10-31T09:10:20.000Z,-5.912,150.196,33,7,mwc,254,,,0.92,us,usp000arz5,2017-04-26T17:59:27.067Z,"New Britain region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2001-10-19T03:28:44.460Z,-4.102,123.907,33,7.5,mwc,234,,,1.14,us,usp000ar78,2017-04-26T17:59:24.854Z,"Banda Sea",earthquake,,,,,reviewed,us,hrv
+2001-10-12T15:02:16.840Z,12.686,144.98,37,7,mwc,482,,,1.15,us,usp000aqsu,2017-04-26T17:59:23.652Z,"Guam region",earthquake,,,,,reviewed,us,hrv
+2001-08-21T06:52:06.250Z,-36.813,-179.575,33,7.1,mwc,478,,,1.18,us,usp000amsn,2016-11-10T00:43:31.759Z,"east of the North Island of New Zealand",earthquake,,,,,reviewed,us,hrv
+2001-07-07T09:38:43.520Z,-17.543,-72.077,33,7.6,mwc,398,,,1.15,us,usp000aj40,2017-04-26T17:59:11.958Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,hrv
+2001-06-23T20:33:14.130Z,-16.265,-73.641,33,8.4,mww,518,,,1.05,official,official20010623203314130_33,2017-04-26T17:59:07.310Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,official
+2001-06-03T02:41:57.160Z,-29.666,-178.633,178.1,7.2,mwc,421,,,1.01,us,usp000afyg,2016-11-10T00:36:45.367Z,"Kermadec Islands, New Zealand",earthquake,,,,,reviewed,us,hrv
+2001-02-24T07:23:48.730Z,1.271,126.249,35,7.1,mwc,426,,,1.05,us,usp000aa8b,2017-04-26T17:58:42.574Z,"Molucca Sea",earthquake,,,,,reviewed,us,hrv
+2001-02-13T19:28:30.260Z,-4.68,102.562,36,7.4,mwc,221,,,1.31,us,usp000a9kc,2017-04-26T17:58:37.988Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2001-01-26T03:16:40.500Z,23.419,70.232,16,7.7,mwc,472,,,1.25,us,usp000a8ds,2017-04-26T17:58:19.908Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2001-01-13T17:33:32.380Z,13.049,-88.66,60,7.7,mwc,427,,,1.13,us,usp000a7m5,2017-04-26T17:58:15.705Z,"offshore El Salvador",earthquake,,,,,reviewed,us,hrv
+2001-01-10T16:02:44.230Z,57.078,-153.211,33,7,mwc,549,,,1.17,us,usp000a7f2,2016-11-10T00:22:59.029Z,"Kodiak Island region, Alaska",earthquake,,,,,reviewed,us,hrv
+2001-01-09T16:49:28.000Z,-14.928,167.17,103,7.1,mwb,372,,,1.15,us,usp000a7cv,2017-04-26T17:58:15.126Z,"Vanuatu",earthquake,,,,,reviewed,us,us
+2001-01-01T06:57:04.170Z,6.898,126.579,33,7.5,mwc,324,,,1.06,us,usp000a70h,2017-04-26T17:58:12.217Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2000-12-06T17:11:06.400Z,39.566,54.799,30,7,mwc,495,,,0.9,us,usp000a5m7,2017-04-13T22:13:31.295Z,"Turkmenistan",earthquake,,,,,reviewed,us,hrv
+2000-11-17T21:01:56.490Z,-5.496,151.781,33,7.8,mwc,346,,,1.07,us,usp000a45f,2017-04-26T17:58:00.602Z,"New Britain region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2000-11-16T07:42:16.930Z,-5.233,153.102,30,7.8,mwc,294,,,1.31,us,usp000a3sp,2017-04-26T17:57:58.874Z,"New Ireland region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2000-11-16T04:54:56.740Z,-3.98,152.169,33,8,mwc,254,,,1.2,us,usp000a3qq,2017-04-26T17:57:58.292Z,"New Ireland region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2000-10-29T08:37:08.770Z,-4.766,153.945,50,7,mwc,60,,,0.96,us,usp000a2mw,2016-11-10T00:50:20.966Z,"New Ireland region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2000-10-04T16:58:44.310Z,-15.421,166.91,23,7,mwc,357,,,1.16,us,usp000a18v,2017-04-26T17:57:49.191Z,"Vanuatu",earthquake,,,,,reviewed,us,hrv
