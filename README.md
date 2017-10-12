@@ -16,4 +16,4 @@ Create a figure using the 3 example data files in /data/
 
   julia> gen_map(Pkg.dir("EQmap")*"/data/eq_7-9.csv", :red, 200, scatter!, 1, 0.5)
   
-  ![ex_1](example.png)
+  ![example](example.png)
