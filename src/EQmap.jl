@@ -1,5 +1,9 @@
 module EQmap
 
-# package code goes here
+    # Modules
+    using Plots, DataFrames
 
-end # module
+    # Methods
+    include("gen_map.jl")
+
+end 
